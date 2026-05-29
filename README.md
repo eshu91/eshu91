@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishwari+Raut;Cloud+%26+Flutter+Developer;IT+Educator+%7C+Lifelong+Learner+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">☁️ Cloud & Flutter Developer · IT Educator · Nepal 🇳🇵</h3>
+<h3 align="center">☁️ Cloud Engineer · Flutter Developer · IT Educator · Nepal 🇳🇵</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eshu91&label=Profile%20views&color=6C63FF&style=flat-square" alt="eshu91" />
@@ -48,8 +48,8 @@ class IshwariRaut:
 - 🌱 Learning **Microsoft Azure, Virtualization, and Cloud Architecture**
 - 👩‍🏫 Teaching **Python programming** to students at Everest IT
 - 💬 Ask me about **Flutter/Dart, Windows Server, Networking, Cisco, Active Directory**
-- 📫 Reach me at **eshu.raut@aglobal.com.np**
-- ⚡ Fun fact: I wear two hats — **Cloud Intern** and **CS Teacher** at the same place!
+- 📫 Reach me at **ishwariraut133@gmail.com**
+- ⚡ Fun fact: I wear two hats — **Cloud Engineer** and **CS Teacher** at the same place!
 
 ---
 
@@ -227,7 +227,7 @@ class IshwariRaut:
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🛒 **e-Doko** | E-commerce app for the Nepali community with product recommendations & user management | Flutter · Dart · Firebase |
-| ☁️ **Cloud Lab Setup** | Windows Server + Active Directory + DNS/DHCP enterprise lab environment | Azure · Windows Server · Cisco |
+| ☁️ **Cloud Lab Setup** | Windows Server + Active Directory + DNS/DHCP enterprise lab environment | Azure · Windows Server · Cisco Router |
 | 🐍 **Python Teaching Projects** | Hands-on coding exercises and projects designed for beginner CS students | Python |
 
 > 📌 *More projects coming soon — currently building in private repos!*
@@ -237,8 +237,8 @@ class IshwariRaut:
 ### 🎯 Learning Roadmap
 
 ```
+2023  ✅  Flutter Developer Intern (e-Doko @ Quality IT Solutions)
 2024  ✅  BCA Graduate
-2025  ✅  Flutter Developer Intern (e-Doko @ Quality IT Solutions)
 2025  ✅  Cloud Computing Intern @ Everest IT
 2025  ✅  CS Teacher (Part-Time) @ Everest IT
 2025  🔄  Microsoft Azure Fundamentals (AZ-900) — In Progress
