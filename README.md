@@ -1,19 +1,40 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishwari+Raut;Cloud+%26+Flutter+Developer;IT+Educator+%7C+Lifelong+Learner+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
-</h1>
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1026,50:1A1F4D,75:2D1B69,100:7B61FF&height=260&section=header&text=🚀%20Ishwari%20Raut&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=☄️%20Cloud%20Explorer%20•%20Flutter%20Builder%20•%20AI%20Automation%20Architect%20☄️&descAlignY=58" width="100%"/>
 
-<h3 align="center">☁️ Cloud Engineer · Flutter Developer · IT Educator · Nepal 🇳🇵</h3>
+# 🌌 Exploring the Digital Universe
+Cloud Computing • Flutter • AI Workflows • Automation • Teaching
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eshu91&label=Profile%20views&color=6C63FF&style=flat-square" alt="eshu91" />
-  <img src="https://img.shields.io/github/followers/eshu91?label=Followers&style=flat-square&color=6C63FF" alt="followers" />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eshu91&theme=onestar&no-frame=true&row=1&column=6" alt="eshu91 trophies" />
-  </a>
-</p>
+<div align="center">
+<!-- TYPING SVG -->
+<a href="https://github.com/eshu91">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+I%27m+Ishwari+Raut;Cloud+%26+Flutter+Developer+%F0%9F%9A%80;IT+Educator+%7C+AI+Tools+Explorer+%F0%9F%A4%96;Builder+of+Real+Things+%F0%9F%9B%A0%EF%B8%8F;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+with+%E2%9D%A4%EF%B8%8F&font=Fira+Code&center=true&width=600&height=50&color=00C9C8&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</a>
+<br/><br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=eshu91&label=Profile%20views&color=00C9C8&style=flat-square" alt="eshu91" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/eshu91?label=Followers&style=flat-square&color=00C9C8" alt="followers" />
+
+<br/><br/>
+
+<!-- TROPHIES -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=eshu91&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4" alt="eshu91 trophies" />
+</a>
+
+</div>
+
+---
+
+<!-- CONSTELLATION DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
 ---
 
@@ -22,34 +43,49 @@
 ```python
 class IshwariRaut:
     def __init__(self):
-        self.name        = "Ishwari Raut"
-        self.location    = "Itahari, Nepal 🇳🇵"
-        self.education   = "BCA — Vishwa Adarsha College (2024)"
-        self.roles       = ["Cloud Computing Intern @ Everest IT",
-                            "CS Teacher (Part-Time) @ Everest IT",
-                            "ex Flutter Developer Intern @ Quality IT Solutions"]
+        self.name       = "Ishwari Raut"
+        self.alias      = "eshu91"
+        self.location   = "Itahari, Nepal 🇳🇵"
+        self.education  = "BCA — Vishwa Adarsha College (2024)"
+        self.languages  = ["Nepali 🇳🇵", "English 🇬🇧", "Hindi 🇮🇳", "Deutsch 🇩🇪"]
+        self.roles      = [
+            "☁️  Cloud Computing Intern @ Everest IT",
+            "👩‍🏫 CS Teacher (Part-Time) @ Everest IT",
+            "📱 ex Flutter Developer Intern @ Quality IT Solutions",
+        ]
 
     def current_focus(self):
         return {
-            "learning"  : ["Microsoft Azure ☁️", "Virtualization & VMs"],
-            "building"  : ["Cloud Infrastructure", "Flutter Apps"],
+            "cloud"     : ["Microsoft Azure ☁️", "Windows Server", "Virtualization"],
+            "building"  : ["Flutter Apps", "Google Sheets Automations", "AI Workflows"],
             "teaching"  : ["Python Programming", "Logic & Problem Solving"],
+            "learning"  : ["AZ-900 → AZ-104", "n8n Automation", "LLM Prompting"],
         }
 
+    def built_with_apps_script(self):
+        return [
+            "📋 Student Management System (Google Sheets + Apps Script)",
+            "💰 Personal Expense Tracker (Google Sheets + Apps Script)",
+            "📚 Study Progress Tracker — IELTS, German A1→B2 & more",
+        ]
+
     def fun_fact(self):
-        return "I built an e-commerce app (e-Doko) for the Nepali community 🛒"
+        return "I automate real things with Google Sheets before writing a single line of code 🚀"
 ```
 
 ---
 
 ### 🚀 What I'm Up To
 
-- 🔭 Currently working on **Cloud Infrastructure & Azure fundamentals**
-- 🌱 Learning **Microsoft Azure, Virtualization, and Cloud Architecture**
-- 👩‍🏫 Teaching **Python programming** to students at Everest IT
-- 💬 Ask me about **Flutter/Dart, Windows Server, Networking, Cisco, Active Directory**
-- 📫 Reach me at **ishwariraut133@gmail.com**
-- ⚡ Fun fact: I wear two hats — **Cloud Engineer** and **CS Teacher** at the same place!
+| | |
+|---|---|
+| 🔭 | Working on **Cloud Infrastructure & Microsoft Azure fundamentals** |
+| 🌱 | Learning **AZ-900 → AZ-104 · Virtualization · n8n Automation** |
+| 👩‍🏫 | Teaching **Python programming** at Everest IT |
+| 🤖 | Actively using **Claude, ChatGPT, Gemini, Grok** for AI-powered workflows |
+| 💬 | Ask me about **Flutter · Networking · Windows Server · Google Sheets Automation** |
+| 📫 | Reach me at **ishwariraut133@gmail.com** |
+| 🗣️ | I speak **Nepali · English · Hindi · Deutsch (learning)** |
 
 ---
 
@@ -58,16 +94,16 @@ class IshwariRaut:
 <p align="left">
   <a href="https://www.linkedin.com/in/ishwari-raut-a59721199/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  </a>&nbsp;
   <a href="https://twitter.com/YOUR_TWITTER" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+  </a>&nbsp;
   <a href="https://fb.com/YOUR_FACEBOOK" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  </a>&nbsp;
   <a href="https://dev.to/YOUR_DEVTO" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
   </a>
@@ -75,183 +111,298 @@ class IshwariRaut:
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c18,100:041f2e&height=3&section=header" width="100%"/>
 
-> **Philosophy:** Every language brings its ecosystem — listed with their natural dependencies and frameworks.
+<details open>
+<summary><h2>🛠️ Tech Stack &amp; Tools</h2></summary>
 
-#### 🌐 Web Frontend
-> *HTML → CSS is always together. CSS → frameworks follow.*
+<br/>
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
+<!-- ROW 1 -->
+<table>
+<tr>
+<td valign="top" width="50%">
 
-#### ⚡ JavaScript Ecosystem
-> *JS → HTML/CSS context · Node.js for backend · React for UI*
+**🌐 Web Frontend**
+> `HTML` → `CSS` → framework · always together
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma&theme=dark" />
 
-#### 🐍 Python Ecosystem
-> *Python → Django (web) · Flask (lightweight) · pip/virtualenv (dependency)*
+</td>
+<td valign="top" width="50%">
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-</p>
+**⚡ JavaScript Ecosystem**
+> `JS` → `Node.js` → `React` → `TypeScript`
 
-#### 🐘 PHP Ecosystem
-> *PHP → Laravel (framework) · Composer (package manager)*
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,ts&theme=dark" />
 
-<p align="left">
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-</p>
+</td>
+</tr>
 
-#### 📱 Mobile — Flutter / Dart Ecosystem
-> *Dart → Flutter (framework) · Android SDK (compile target) · Firebase (backend)*
+<!-- ROW 2 -->
+<tr>
+<td valign="top">
 
-<p align="left">
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-</p>
+**🐍 Python Ecosystem**
+> `Python` → `Django` · `Flask` · `NumPy`
 
-#### ☕ Java & C# / .NET Ecosystem
-> *Java → OOP base · C# → .NET framework (ASP.NET, WinForms)*
+<img src="https://skillicons.dev/icons?i=python,django,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" />
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-</p>
+</td>
+<td valign="top">
 
-#### 🔧 C / Systems & Embedded
-> *C → GCC · Arduino (embedded C) · Raspberry Pi (IoT pair)*
+**🐘 PHP Ecosystem**
+> `PHP` → `Laravel` + `Composer`
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer"/>
 
-#### 🗄️ Databases
-> *SQL family: MySQL · Oracle · SQLite · NoSQL: Firebase Firestore*
+</td>
+</tr>
 
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-</p>
+<!-- ROW 3 -->
+<tr>
+<td valign="top">
 
-#### ☁️ Cloud & Infrastructure
-> *Azure (cloud) → Linux (OS) · Windows Server · VMs (virtualization)*
+**📱 Mobile — Flutter / Dart**
+> `Dart` → `Flutter` → `Android` → `Firebase`
 
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows-server" width="40" height="40"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase&theme=dark" />
 
-#### 🔌 Networking & IT Infrastructure
-> *Cisco (routers/VoIP) · Active Directory · DNS · DHCP · Exchange Server*
+</td>
+<td valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/>
-  <img src="https://img.shields.io/badge/DNS%20%26%20DHCP-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS DHCP"/>
-  <img src="https://img.shields.io/badge/Exchange%20Server-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Exchange"/>
-  <img src="https://img.shields.io/badge/VoIP-00897B?style=for-the-badge&logo=webrtc&logoColor=white" alt="VoIP"/>
-</p>
+**☕ Java · C# · .NET**
+> `C#` always paired with `.NET`
 
-#### 📐 Scientific Computing & Dev Tools
-> *MATLAB · Git (version control) · VS Code (editor)*
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet&theme=dark" />
 
-<p align="left">
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-</p>
+</td>
+</tr>
+
+<!-- ROW 4 -->
+<tr>
+<td valign="top">
+
+**🔧 C · Embedded Systems**
+> `C` is the language under `Arduino`
+
+<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark" />
+
+</td>
+<td valign="top">
+
+**🗄️ Databases**
+> SQL family + NoSQL
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
+
+</td>
+</tr>
+
+<!-- ROW 5 -->
+<tr>
+<td valign="top">
+
+**☁️ Cloud & Infrastructure**
+> `Azure` → `Linux` + `Windows Server` → VMs
+
+<img src="https://skillicons.dev/icons?i=azure,linux&theme=dark" />
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-041f2e?style=for-the-badge&logo=windows&logoColor=00C9C8)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-041f2e?style=for-the-badge&logo=virtualbox&logoColor=00C9C8)
+
+</td>
+<td valign="top">
+
+**🔌 Networking & Enterprise IT**
+> Hands-on enterprise infra — not just theory
+
+![Cisco](https://img.shields.io/badge/Cisco-041f2e?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Active Directory](https://img.shields.io/badge/Active_Directory-041f2e?style=for-the-badge&logo=microsoft&logoColor=0078D4)
+![DNS & DHCP](https://img.shields.io/badge/DNS_%26_DHCP-041f2e?style=for-the-badge&logo=cloudflare&logoColor=FF6B35)
+![Exchange Server](https://img.shields.io/badge/Exchange_Server-041f2e?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)
+![VoIP](https://img.shields.io/badge/VoIP_%26_Telephony-041f2e?style=for-the-badge&logo=webrtc&logoColor=00897B)
+![IP Addressing](https://img.shields.io/badge/IP_Addressing-041f2e?style=for-the-badge&logo=cisco&logoColor=aaaaaa)
+
+</td>
+</tr>
+
+<!-- ROW 6 -->
+<tr>
+<td valign="top">
+
+**📊 Spreadsheet Automation**
+> Builds full production systems, not just formulas
+
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-041f2e?style=for-the-badge&logo=google-sheets&logoColor=34A853)
+![Apps Script](https://img.shields.io/badge/Apps_Script-041f2e?style=for-the-badge&logo=google&logoColor=4285F4)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-041f2e?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
+![Airtable](https://img.shields.io/badge/Airtable-041f2e?style=for-the-badge&logo=airtable&logoColor=18BFFF)
+![n8n](https://img.shields.io/badge/n8n-041f2e?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+
+</td>
+<td valign="top">
+
+**🤖 AI Tools & LLM Workflows**
+> Builds automations and pipelines — not just prompts
+
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-041f2e?style=for-the-badge&logo=anthropic&logoColor=D97706)
+![ChatGPT](https://img.shields.io/badge/ChatGPT_(OpenAI)-041f2e?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![Gemini](https://img.shields.io/badge/Gemini_(Google)-041f2e?style=for-the-badge&logo=google&logoColor=4285F4)
+![Grok](https://img.shields.io/badge/Grok_(xAI)-041f2e?style=for-the-badge&logo=x&logoColor=ffffff)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-041f2e?style=for-the-badge&logoColor=00C9C8)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-041f2e?style=for-the-badge&logoColor=ffffff)
+
+</td>
+</tr>
+
+<!-- ROW 7 — FULL WIDTH -->
+<tr>
+<td colspan="2" valign="top">
+
+**🧰 Dev Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark" />
+
+![MATLAB](https://img.shields.io/badge/MATLAB-041f2e?style=for-the-badge&logo=mathworks&logoColor=e16737)
+![Bash](https://img.shields.io/badge/Bash-041f2e?style=for-the-badge&logo=gnu-bash&logoColor=aaaaaa)
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c18,100:041f2e&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshu91&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="eshu91 stats" />
-</p>
+<details open>
+<summary><h2>🏗️ Projects Built</h2></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshu91&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="eshu91 top langs" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshu91&theme=tokyonight&hide_border=true" alt="eshu91 streak" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 📋 Student Management System
+> Full student registration, attendance tracking, and monthly reporting — built entirely in Google Sheets for Everest IT. Fully automated, zero manual entry.
+
+![Sheets](https://img.shields.io/badge/Google_Sheets-041f2e?style=flat-square&logo=google-sheets&logoColor=34A853)
+![Apps Script](https://img.shields.io/badge/Apps_Script-041f2e?style=flat-square&logo=google&logoColor=4285F4)
+![Automation](https://img.shields.io/badge/Automation-041f2e?style=flat-square&logoColor=aaaaaa)
+
+</td>
+<td valign="top" width="50%">
+
+### 💰 Personal Expense Tracker
+> Auto-categorised spending with monthly summaries and visual dashboards. Zero manual entry — triggers and formulas handle everything.
+
+![Sheets](https://img.shields.io/badge/Google_Sheets-041f2e?style=flat-square&logo=google-sheets&logoColor=34A853)
+![Apps Script](https://img.shields.io/badge/Apps_Script-041f2e?style=flat-square&logo=google&logoColor=4285F4)
+![Finance](https://img.shields.io/badge/Finance-041f2e?style=flat-square&logoColor=EF9F27)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 📚 Study Progress Tracker
+> Configurable syllabus tracker for IELTS, German A1→B2, or any subject — add topics, mark completion, track progress over time.
+
+![Sheets](https://img.shields.io/badge/Google_Sheets-041f2e?style=flat-square&logo=google-sheets&logoColor=34A853)
+![Apps Script](https://img.shields.io/badge/Apps_Script-041f2e?style=flat-square&logo=google&logoColor=4285F4)
+![IELTS & German](https://img.shields.io/badge/IELTS_%26_German-041f2e?style=flat-square&logoColor=00C9C8)
+
+</td>
+<td valign="top">
+
+### 🛒 e-Doko
+> E-commerce app for the Nepali community — product recommendations, user management, and optimised UI/UX. Built during internship at Quality IT Solutions.
+
+![Flutter](https://img.shields.io/badge/Flutter-041f2e?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-041f2e?style=flat-square&logo=dart&logoColor=0175C2)
+![Firebase](https://img.shields.io/badge/Firebase-041f2e?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### ☁️ Enterprise IT Lab
+> Hands-on Windows Server environment with Active Directory, DNS/DHCP, Microsoft Exchange Server, Cisco router configuration, and full VoIP system setup using Cisco and Microsoft Teams.
+
+![Azure](https://img.shields.io/badge/Azure-041f2e?style=flat-square&logo=microsoft-azure&logoColor=0078D4)
+![Windows Server](https://img.shields.io/badge/Windows_Server-041f2e?style=flat-square&logo=windows&logoColor=00C9C8)
+![Cisco](https://img.shields.io/badge/Cisco-041f2e?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![Active Directory](https://img.shields.io/badge/Active_Directory-041f2e?style=flat-square&logo=microsoft&logoColor=0078D4)
+![Exchange](https://img.shields.io/badge/Exchange_Server-041f2e?style=flat-square&logo=microsoftoutlook&logoColor=0078D4)
+![VoIP](https://img.shields.io/badge/VoIP-041f2e?style=flat-square&logo=webrtc&logoColor=00897B)
+
+</td>
+</tr>
+</table>
+
+> ✨ *More projects launching soon — currently building in private repos!*
+
+</details>
 
 ---
 
-### 🏗️ Notable Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c18,100:041f2e&height=3&section=header" width="100%"/>
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🛒 **e-Doko** | E-commerce app for the Nepali community with product recommendations & user management | Flutter · Dart · Firebase |
-| ☁️ **Cloud Lab Setup** | Windows Server + Active Directory + DNS/DHCP enterprise lab environment | Azure · Windows Server · Cisco Router |
-| 🐍 **Python Teaching Projects** | Hands-on coding exercises and projects designed for beginner CS students | Python |
+<details open>
+<summary><h2>🎯 Learning Roadmap</h2></summary>
 
-> 📌 *More projects coming soon — currently building in private repos!*
-
----
-
-### 🎯 Learning Roadmap
+<br/>
 
 ```
-2023  ✅  Flutter Developer Intern (e-Doko @ Quality IT Solutions)
-2024  ✅  BCA Graduate
-2025  ✅  Cloud Computing Intern @ Everest IT
-2025  ✅  CS Teacher (Part-Time) @ Everest IT
-2025  🔄  Microsoft Azure Fundamentals (AZ-900) — In Progress
-2025  🎯  Azure Administrator (AZ-104) — Goal
-2026  🎯  Full Azure Cloud Architecture Certification
+ ✦  2018  ✅  +2 Computer Science — Vishwa Adarsha College
+ ✦  2023  ✅  Flutter Developer Intern — e-Doko @ Quality IT Solutions
+ ✦  2024  ✅  BCA Graduate — Vishwa Adarsha College
+ ✦  2025  ✅  Cloud Computing Intern + CS Teacher @ Everest IT
+ ✦  2025  ✅  Built Student SMS · Expense Tracker · Study Tracker (Google Sheets)
+ ✦  2026  🔄  Microsoft Azure Fundamentals (AZ-900)  ← IN PROGRESS
+ ✦  2026  🎯  Azure Administrator Associate (AZ-104)
+ ✦  2026  🎯  Claude Certified Architect (CCA)
 ```
+
+</details>
 
 ---
 
-<p align="center">
-  <i>"The cloud is not just a place to store things — it's a place to build things." ☁️</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c18,100:041f2e&height=3&section=header" width="100%"/>
 
-<p align="center">
-  Made with ❤️ from Nepal 🇳🇵
-</p>
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eshu91&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=020c18&title_color=00C9C8&icon_color=F8D866&text_color=ffffff" height="192px" alt="Ishwari's GitHub stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshu91&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=020c18&title_color=00C9C8&icon_color=F8D866&text_color=ffffff" height="192px" alt="Ishwari's top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshu91&theme=tokyonight&hide_border=true&background=020c18&stroke=00C9C8&ring=00C9C8&fire=F8D866&currStreakLabel=00C9C8&sideLabels=ffffff&dates=aaaaaa" alt="eshu91 streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=eshu91&bg_color=020c18&color=F8D866&line=00C9C8&point=ffffff&hide_border=true" width="100%" alt="Ishwari's activity graph"/>
+
+</div>
+
+</details>
+
+---
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041f2e,50:063d4f,100:020c18&height=200&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20from%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
